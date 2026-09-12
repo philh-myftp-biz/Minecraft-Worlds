@@ -2442,6 +2442,12 @@
     },
     "done": true
   },
+  "goml:recipes/all_recipes": {
+    "criteria": {
+      "has_chest": "2026-09-12 14:30:21 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2026-09-12 14:38:52 -0400"
@@ -2460,21 +2466,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_spear": {
-    "criteria": {
-      "has_cobblestone": "2026-09-12 15:05:08 -0400"
-    },
-    "done": true
-  },
-  "goml:recipes/all_recipes": {
-    "criteria": {
-      "has_chest": "2026-09-12 14:30:21 -0400"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/cobblestone_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2026-09-12 14:38:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_spear": {
+    "criteria": {
+      "has_cobblestone": "2026-09-12 15:05:08 -0400"
     },
     "done": true
   },
